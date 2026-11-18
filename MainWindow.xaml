@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:ProyectoFinalGrupo3"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+    <DockPanel>
+        <Button Width="40" Height="40"/>
+    </DockPanel>
 </Window>
