@@ -9,6 +9,9 @@
     <DockPanel>
         <Button Width="40" Height="40" Content="Holas"/>
         <Button Width="169" Height="40" Content="Prueba MELVIN"/>
+        <Button Width="169" Height="40" Content="Prueba Samadi"/>
+        <Button Width="169" Height="40" Content="Prueba Emilson"/>
+        <Button Width="169" Height="40" Content="Prueba Carlos"/>
 
     </DockPanel>
 </Window>
